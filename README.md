@@ -70,4 +70,4 @@ Models are assessed using:
 - Automated data ingestion pipeline
 
 💡 Acknowledgments
-Grateful to open-source contributors and researchers whose work inspired and informed this project.
+- Grateful to open-source contributors and researchers whose work inspired and informed this project.
