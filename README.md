@@ -46,14 +46,11 @@ Open the suggested URL to interact with the prediction interface.
 
 🧬 Project Structure
 employee-attrition-prediction/
-├── data/            # Raw and cleaned datasets  
+├── datasets/        # Raw and cleaned datasets  
 ├── notebooks/       # EDA and model development notebooks  
 ├── models/          # Trained ML models in .pkl format  
 ├── main.py          # Streamlit application  
-├── requirements.txt # Project dependencies  
 └── README.md        # Project documentation  
-
-
 
 🏆 Evaluation Criteria
 Models are assessed using:
