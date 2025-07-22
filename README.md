@@ -27,6 +27,7 @@ pip install -r requirements.txt
 
 🔮 Usage
 Make predictions using the saved model:
+
 import pickle  
 import pandas as pd
 
@@ -45,7 +46,7 @@ streamlit run app.py
 Open the suggested URL to interact with the prediction interface.
 
 🧬 Project Structure
-employee-attrition-prediction/
+employee-attrition-prediction/ 
 ├── datasets/        # Raw and cleaned datasets  
 ├── notebooks/       # EDA and model development notebooks  
 ├── models/          # Trained ML models in .pkl format  
