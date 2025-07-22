@@ -1,7 +1,7 @@
 # DS_Employee-Attrition-Analysis-and-Prediction
 
 📟 Project Overview
-This project focuses on analyzing employee data to uncover the key drivers of attrition and build a predictive model that forecasts employee turnover. By leveraging this model, HR teams can make informed, data-driven decisions to boost retention strategies and reduce churn.
+- This project focuses on analyzing employee data to uncover the key drivers of attrition and build a predictive model that forecasts employee turnover. By leveraging this model, HR teams can make informed, data-driven decisions to boost retention strategies and reduce churn.
 
 🚀 Key Features
 - Data Acquisition & Preprocessing: Gather historical employee data and clean it for analysis.
